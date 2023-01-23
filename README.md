@@ -1,11 +1,12 @@
 # rio-rgbify
-Encode arbitrary bit depth rasters in pseudo base-256 as RGB
+Encode arbitrary bit depth rasters in pseudo base-256 as RGB.
+
+As it seems that the project is nearly abandoned, I'm commited to maintain and power rio-rgbify with the PR and improvements that have been made by the awesome open source community. That's why I say it's the usual rio-rgbify, but with steroids 💪
 
 ## Installation
 
-### Development
 ```
-git clone git@github.com:mapbox/rio-rgbify.git
+git clone git@github.com:fmariv/rio-rgbify.git
 
 cd rio-rgbify
 
